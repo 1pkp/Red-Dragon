@@ -30,8 +30,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+917870047326'] // owner number
-global.ownername = "😎PRAVIN RAJ❯❯" // owner name
-global.ytname = "https://youtube.com/@TTOKMAKRF?si=bfVYi8jF2toLFusz" // yt chanel name
+global.ownername = "😎 PRAVIN.RAJ❯❯" // owner name
+global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
@@ -47,16 +47,16 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+917870047326']
-global.ownertag = '+917870047326' //your tag number
-global.botname = 'PRAVIN╺ RAJ - 𝘉𝘖𝘛' //ur bot name
-global.packname = "RAJ KING" // sticker packname
-global.author = "PRAVIN╺ RAJ" // sticker author
+global.owner = ['+380944814219']
+global.ownertag = '+380944814219' //your tag number
+global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.packname = "Bot Sticker" // sticker packname
+global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
 //database
-global.premium = ['+917870047326'] //ur premium numbers
+global.premium = ['+380944814219'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
